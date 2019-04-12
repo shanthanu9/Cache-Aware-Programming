@@ -1,6 +1,6 @@
 # Cache Aware Programming
 
-Here I analyse performance of programs with respect to cache hits. I have also considered possible optimizations for improving cache hits.`
+Here I analyse performance of programs with respect to cache hits. I have also considered possible optimizations for improving cache hits.
 
 A (not so) brief introduction to memory heirarchy:
 
