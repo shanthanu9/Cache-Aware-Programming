@@ -57,3 +57,7 @@ To get more details on RAM:
 ```
 $ free -h 
 ```
+
+## My L1 Cache stats
+
+My L1 cache is 8-way set associative and is 128 kB in size. The size of a cache block is 64 bytes. Therefore, my L1 cache has 2048 cache lines. Thus the cache can at once hold 2048 X 8 double values assuming double takes 8 bytes.
